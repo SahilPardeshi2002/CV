@@ -1,0 +1,105 @@
+/**{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}*/
+.heading1{
+    text-align: center;
+}
+body{
+    margin: 0;
+    text-align: center;
+    background-color: #FFFFFF;
+    font-family: 'Source Serif Pro', serif;
+    height: 150vh;
+}
+h1{
+    padding-top: 200px;
+    color: #66BFBF;
+    height: 10%;
+    width: 20%;
+    font-family: 'Sacramento', cursive;
+    font-size: 5rem;
+    font-weight: 500;
+    margin: 0 auto;
+    line-height: 2;
+}
+h2{
+    font-size: 2rem;
+    color:  #66BFBF;
+    font-weight: normal;
+    font-family:'Lora', serif;;
+    
+
+}
+
+.cloud1{
+    position: absolute;
+    top: 250px;
+    left: 300px;
+}
+.cloud2{
+    position: absolute;
+    top: 70px;
+    right: 350px;
+}
+p{
+    color: #82AAE3;
+    font-size: 1.2rem;
+    
+}
+hr{
+    font-size: 90px;
+    border-style: none;
+    border-top: dotted 5px;
+    border-color: #F0EEED;
+    width: 10%;
+}
+
+.middle-container{
+    position: relative;
+}
+.myimage{
+    height: 200px;  
+    border-radius: 40%;
+    
+}
+.skills{
+    text-align: center;
+}
+table{
+    font-family: 'Source Serif Pro', serif;
+    color: #82AAE3;
+    text-align: center;
+    display: flex; 
+    justify-content: center;
+}
+.container1{
+    background-color: #EAFDFC;
+    padding-bottom: 50px; 
+}
+#myself{
+    margin-top: 2rem;
+}
+.mount1{
+    padding-top: 1rem;
+    position: relative;
+    top: 50px;
+}
+h3, a{
+    color: #11999E    
+}
+.softwareimage{
+    height: 300px;
+    border-radius: 100%;
+    border-color: gainsboro;
+    position: relative;
+    right: 25rem;
+}
+.work{
+    position: absolute;
+    top: 66rem;
+    right: 20rem;
+    line-height: 1.5;
+    
+}
